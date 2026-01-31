@@ -1,0 +1,17 @@
+# Starter URLs for focused crawling
+# Consumer Services Sector – Media and Broadcasting
+# Public, open-access sources only
+
+# Ofcom – UK media and broadcasting research
+https://www.ofcom.org.uk/research-and-data
+https://www.ofcom.org.uk/research-and-data/tv-radio-and-on-demand
+https://www.ofcom.org.uk/research-and-data/media-literacy-research
+
+# International Telecommunication Union (ITU-D) – statistics
+https://www.itu.int/en/ITU-D/Statistics
+https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx
+
+# European Broadcasting Union (EBU) – technical and industry publications
+https://tech.ebu.ch/publications
+https://tech.ebu.ch/publications?topic=distribution
+https://tech.ebu.ch/publications?topic=media
